@@ -1,8 +1,8 @@
 # Employee-Attendance-Tracking-Management-System
 Employee-Attendance-Tracking-Management-System is divided into three modules :
-1. Staff module
-2. Admin/Registration module
-3. Head of department module
+1. Admin/Registration module
+2. Head of department module
+3. Staff module 
 -----------------------------------------------------------------------------------------------------------------------
 Admin/Registration Module details
 Admin/Registration can add/update/ delete leave type and departments
